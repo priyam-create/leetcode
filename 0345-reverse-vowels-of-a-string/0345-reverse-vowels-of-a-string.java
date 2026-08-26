@@ -3,22 +3,23 @@ class Solution {
         char[] arr=s.toCharArray();
         int i=0;
         int j=arr.length-1;
-    String vowel="aeiouAEIOU";
-    while(i<j){
-        while(i<j && vowel.indexOf(arr[i])==-1){
-            i++;
+        while(i<j){
+            if(!isVowel(arr[i])) i++;
+            if(!isVowel(arr[j])) j--;
+            if(isVowel(arr[i])&& isVowel(arr[j])){
+                char temp=arr[i];
+                arr[i]=arr[j];
+                arr[j]=temp;
+                i++;
+                j--;
+            }
         }
-        while(i<j && vowel.indexOf(arr[j])==-1){
-            j--;
-        }
-        if(i<j){
-            char temp=arr[i];
-            arr[i]=arr[j];
-            arr[j]=temp;
-            i++;
-            j--;
-        }
+        return new String(arr);
     }
-    return new String(arr);
+    boolean isVowel(char ch){
+        if(ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u'|| ch=='A'||ch=='E'||ch=='I'||ch=='O'||ch=='U'){
+            return true;
+        }
+        return false;
     }
 }
