@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/priyam-create/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/priyam-create/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/priyam-create/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/priyam-create/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0389-find-the-difference](https://github.com/priyam-create/leetcode/tree/master/0389-find-the-difference) |
 | [2785-sort-vowels-in-a-string](https://github.com/priyam-create/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Dynamic Programming
@@ -50,4 +52,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/priyam-create/leetcode/tree/master/0389-find-the-difference) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/priyam-create/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/priyam-create/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/priyam-create/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
