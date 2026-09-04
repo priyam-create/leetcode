@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/priyam-create/leetcode/tree/master/0231-power-of-two) |
 | [3099-harshad-number](https://github.com/priyam-create/leetcode/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/priyam-create/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/priyam-create/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/priyam-create/leetcode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/priyam-create/leetcode/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/priyam-create/leetcode/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/priyam-create/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
