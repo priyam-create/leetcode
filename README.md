@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/priyam-create/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/priyam-create/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/priyam-create/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/priyam-create/leetcode/tree/master/0268-missing-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/priyam-create/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/priyam-create/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/priyam-create/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -15,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/priyam-create/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/priyam-create/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/priyam-create/leetcode/tree/master/0389-find-the-difference) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/priyam-create/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/priyam-create/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/priyam-create/leetcode/tree/master/0268-missing-number) |
 | [3099-harshad-number](https://github.com/priyam-create/leetcode/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/priyam-create/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/priyam-create/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/priyam-create/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/priyam-create/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/priyam-create/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/priyam-create/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/priyam-create/leetcode/tree/master/0389-find-the-difference) |
 | [2785-sort-vowels-in-a-string](https://github.com/priyam-create/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Dynamic Programming
@@ -64,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/priyam-create/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/priyam-create/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/priyam-create/leetcode/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
@@ -98,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/priyam-create/leetcode/tree/master/0231-power-of-two) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/priyam-create/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
