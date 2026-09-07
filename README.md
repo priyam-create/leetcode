@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/priyam-create/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/priyam-create/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/priyam-create/leetcode/tree/master/0389-find-the-difference) |
+| [0567-permutation-in-string](https://github.com/priyam-create/leetcode/tree/master/0567-permutation-in-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/priyam-create/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/priyam-create/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/priyam-create/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/priyam-create/leetcode/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/priyam-create/leetcode/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/priyam-create/leetcode/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/priyam-create/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/priyam-create/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/priyam-create/leetcode/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/priyam-create/leetcode/tree/master/0567-permutation-in-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/priyam-create/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/priyam-create/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2785-sort-vowels-in-a-string](https://github.com/priyam-create/leetcode/tree/master/2785-sort-vowels-in-a-string) |
@@ -123,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/priyam-create/leetcode/tree/master/0045-jump-game-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/priyam-create/leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
