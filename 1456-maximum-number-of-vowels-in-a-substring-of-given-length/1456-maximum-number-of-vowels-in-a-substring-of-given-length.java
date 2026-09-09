@@ -29,6 +29,6 @@ class Solution {
             max_count = max;
         }
 
-        return Math.max(max_count, count);
+        return max_count;
     }
 }
