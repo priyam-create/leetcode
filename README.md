@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/priyam-create/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/priyam-create/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/priyam-create/leetcode/tree/master/0389-find-the-difference) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/priyam-create/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/priyam-create/leetcode/tree/master/0567-permutation-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/priyam-create/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/priyam-create/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/priyam-create/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/priyam-create/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/priyam-create/leetcode/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/priyam-create/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/priyam-create/leetcode/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/priyam-create/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/priyam-create/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/priyam-create/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/priyam-create/leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/priyam-create/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/priyam-create/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
