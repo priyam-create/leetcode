@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/priyam-create/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1652-defuse-the-bomb](https://github.com/priyam-create/leetcode/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/priyam-create/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/priyam-create/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/priyam-create/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/priyam-create/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/priyam-create/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/priyam-create/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/priyam-create/leetcode/tree/master/0567-permutation-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/priyam-create/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/priyam-create/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/priyam-create/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/priyam-create/leetcode/tree/master/0169-majority-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/priyam-create/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/priyam-create/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
