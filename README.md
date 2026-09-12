@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/priyam-create/leetcode/tree/master/0045-jump-game-ii) |
 | [0075-sort-colors](https://github.com/priyam-create/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/priyam-create/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/priyam-create/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/priyam-create/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/priyam-create/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/priyam-create/leetcode/tree/master/0268-missing-number) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/priyam-create/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/priyam-create/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/priyam-create/leetcode/tree/master/0268-missing-number) |
 | [3099-harshad-number](https://github.com/priyam-create/leetcode/tree/master/3099-harshad-number) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/priyam-create/leetcode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/priyam-create/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/priyam-create/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/priyam-create/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/priyam-create/leetcode/tree/master/0392-is-subsequence) |
