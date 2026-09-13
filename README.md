@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/priyam-create/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/priyam-create/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/priyam-create/leetcode/tree/master/0268-missing-number) |
+| [1323-maximum-69-number](https://github.com/priyam-create/leetcode/tree/master/1323-maximum-69-number) |
 | [3099-harshad-number](https://github.com/priyam-create/leetcode/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/priyam-create/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3871-count-commas-in-range-ii](https://github.com/priyam-create/leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/priyam-create/leetcode/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/priyam-create/leetcode/tree/master/0455-assign-cookies) |
+| [1323-maximum-69-number](https://github.com/priyam-create/leetcode/tree/master/1323-maximum-69-number) |
 ## Sliding Window
 |  |
 | ------- |
