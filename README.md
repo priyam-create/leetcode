@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/priyam-create/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/priyam-create/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/priyam-create/leetcode/tree/master/0268-missing-number) |
+| [0836-rectangle-overlap](https://github.com/priyam-create/leetcode/tree/master/0836-rectangle-overlap) |
 | [1323-maximum-69-number](https://github.com/priyam-create/leetcode/tree/master/1323-maximum-69-number) |
 | [3099-harshad-number](https://github.com/priyam-create/leetcode/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/priyam-create/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -183,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/priyam-create/leetcode/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/priyam-create/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/priyam-create/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/priyam-create/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
