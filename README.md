@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/priyam-create/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/priyam-create/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/priyam-create/leetcode/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/priyam-create/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/priyam-create/leetcode/tree/master/0836-rectangle-overlap) |
 | [1323-maximum-69-number](https://github.com/priyam-create/leetcode/tree/master/1323-maximum-69-number) |
 | [3099-harshad-number](https://github.com/priyam-create/leetcode/tree/master/3099-harshad-number) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/priyam-create/leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/priyam-create/leetcode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/priyam-create/leetcode/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/priyam-create/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1768-merge-strings-alternately](https://github.com/priyam-create/leetcode/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/priyam-create/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/priyam-create/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/priyam-create/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/priyam-create/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/priyam-create/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/priyam-create/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/priyam-create/leetcode/tree/master/1004-max-consecutive-ones-iii) |
