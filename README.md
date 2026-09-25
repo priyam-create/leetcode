@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/priyam-create/leetcode/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/priyam-create/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/priyam-create/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/priyam-create/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3701-compute-alternating-sum](https://github.com/priyam-create/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/priyam-create/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/priyam-create/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/priyam-create/leetcode/tree/master/1323-maximum-69-number) |
 | [3099-harshad-number](https://github.com/priyam-create/leetcode/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/priyam-create/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/priyam-create/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3871-count-commas-in-range-ii](https://github.com/priyam-create/leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/priyam-create/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/priyam-create/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
