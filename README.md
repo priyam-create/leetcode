@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/priyam-create/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/priyam-create/leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/priyam-create/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/priyam-create/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/priyam-create/leetcode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/priyam-create/leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/priyam-create/leetcode/tree/master/0258-add-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/priyam-create/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/priyam-create/leetcode/tree/master/3701-compute-alternating-sum) |
 ## Memoization
@@ -253,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/priyam-create/leetcode/tree/master/0912-sort-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/priyam-create/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
