@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyam-create/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/priyam-create/leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/priyam-create/leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/priyam-create/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/priyam-create/leetcode/tree/master/0242-valid-anagram) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/priyam-create/leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/priyam-create/leetcode/tree/master/0045-jump-game-ii) |
 | [0392-is-subsequence](https://github.com/priyam-create/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/priyam-create/leetcode/tree/master/0509-fibonacci-number) |
@@ -261,4 +263,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/priyam-create/leetcode/tree/master/0258-add-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/priyam-create/leetcode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/priyam-create/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
